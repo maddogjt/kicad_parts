@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SeeedOPL-Connector)(type KiCad)(uri "G:/huangwei/complete/201811/OPL_Kicad_Library-master/SeeedOPL for Kicad-alpha-2018-11/SeeedOPL-Connector.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name SeeedOPL-Capacitor)(type KiCad)(uri "G:/huangwei/complete/201811/OPL_Kicad_Library-master/SeeedOPL for Kicad-alpha-2017-06/SeeedOPL-Capacitor.pretty")(options "")(descr ""))
+  (lib (name SeeedOPL-Connector)(type KiCad)(uri "G:/huangwei/complete/201811/OPL_Kicad_Library-master/SeeedOPL for Kicad-alpha-2017-06/SeeedOPL-Connector.pretty")(options "")(descr ""))
+  (lib (name SeeedOPL-Switch)(type KiCad)(uri "G:/huangwei/complete/201811/OPL_Kicad_Library-master/SeeedOPL for Kicad-alpha-2017-06/SeeedOPL-Switch.pretty")(options "")(descr ""))
+)
