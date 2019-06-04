@@ -1,4 +1,4 @@
-(module LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm (layer F.Cu) (tedit 5CDCDBD0)
+(module LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm (layer F.Cu) (tedit 5CF6114A)
   (descr https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf)
   (tags "LED RGB NeoPixel Mini")
   (attr smd)
@@ -34,9 +34,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/parts/STL/SMD3535 RGB.stp"
+  (model "${KICAD_PARTS_DIR}/3d models/SMD3535 RGB.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )
