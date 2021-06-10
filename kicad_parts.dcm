@@ -47,6 +47,11 @@ K P-Channel MOSFET
 F http://www.vishay.com/docs/66709/si2319cd.pdf
 $ENDCMP
 #
+$CMP VDD_HIGH
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
 $CMP VP0610T
 D -0.18A Id, -60V Vds, P-Channel MOSFET, SOT-23-3
 K P-Channel MOSFET

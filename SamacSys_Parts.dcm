@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TPS22965DSGR
+D 5.7V, 6A, 16m Load Switch With Adjustable Rise Time and Optional Quick Output Discharge
+K
+F http://www.ti.com/lit/ds/symlink/tps22965.pdf
+$ENDCMP
+#
+$CMP AP2511AMP-13
+D Power Switch ICs - Power Distribution 2.0A Sgl-Ch Curr Lim 2.5A 70mOhm Low
+K
+F https://www.diodes.com/assets/Datasheets/AP25x1A.pdf
+$ENDCMP
+#
+#End Doc Library
