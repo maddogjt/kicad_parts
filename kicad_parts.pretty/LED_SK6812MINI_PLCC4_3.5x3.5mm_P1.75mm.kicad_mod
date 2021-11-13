@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-(module LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm (layer F.Cu) (tedit 5CF6114A)
-=======
 (module LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm (layer F.Cu) (tedit 5D0D6EAB)
->>>>>>> new parts
   (descr https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf)
   (tags "LED RGB NeoPixel Mini")
   (attr smd)
